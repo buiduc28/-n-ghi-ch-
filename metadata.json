@@ -1,0 +1,6 @@
+{
+  "name": "Ghi Chú",
+  "description": "Ứng dụng ghi chú đơn giản, tiện lợi và an toàn dữ liệu trên thiết bị",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
